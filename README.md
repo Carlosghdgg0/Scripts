@@ -1,2 +1,4 @@
-# Shell_scripts_inicial
- Meus dois primeiros shell scripts, focado na instalação de alguns programas no arch linux pós-instalação.
+# Meus Shells Scripts.
+
+Esse repositório tem alguns scripts que eu fiz apenas para tentar aprender com o funciona o bash.
+Licença: [The Unlicense](LICENSE)
