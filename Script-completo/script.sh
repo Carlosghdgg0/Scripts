@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 AUR_BRAVE="https://aur.archlinux.org/brave-bin.git"
 AUR_YAY_GIT_CLONE="https://aur.archlinux.org/yay.git"
